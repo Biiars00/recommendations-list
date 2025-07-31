@@ -77,6 +77,7 @@ cd <seu-diretorio>
 ```
 
 2. Instalar dependências
+> OBS: É necessário utilizar o comando abaixo no diretório backend, frontend e na raiz do projeto. 
 ```
 yarn install
 ```
